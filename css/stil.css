@@ -1,0 +1,9 @@
+h1
+    {
+     color: rgb(28, 204, 243); text-align: center; text-shadow: 1px 1px 2px black,0 0 25px black, 0 0 5px red; font-style: italic;
+    }
+    p
+    {
+    background-color: black; font-size: 40px;  text-align: center; font-weight: bold; text-decoration: underline; text-decoration-color:rgb(166, 166, 166);
+   color: white; line-height: 40px;
+    }
